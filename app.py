@@ -10,6 +10,7 @@ from functionforDownloadButtons import download_button
 import os
 import json
 
+
 st.set_page_config(
     page_title="BERT Keyword Extractor",
     page_icon="🎈",
